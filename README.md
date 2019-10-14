@@ -1,6 +1,5 @@
 # Formulario
 formulario de datos formulados 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Formulario de prueba de HTML5</title>
