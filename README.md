@@ -2,7 +2,7 @@
 formulario de datos formulados 
 <html>
 <head>
-<title>Formulario de prueba de HTML5</title>
+
 </head>
 <body>
 
